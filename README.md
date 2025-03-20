@@ -43,7 +43,7 @@ This project provides a RESTful API using Express, TypeScript, PostgreSQL, and P
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Hamidjon03/Express_typescript_task.git>
 cd <project-directory>
 ```
 
